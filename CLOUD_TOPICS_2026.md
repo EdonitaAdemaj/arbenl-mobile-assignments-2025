@@ -37,7 +37,7 @@
   - Score: Not graded (0-30)
 
 ## Serverless APIs & Automation
-11. Serverless Contact Form with Spam Scoring — (Available)
+11. Serverless Contact Form with Spam Scoring — (Taken by Edonita Ademaj <edonita.ademaj@universitetiaab.com>)
   - Cloud focus: Build an HTTP function, store submissions, add rate limiting or CAPTCHA verification, and notify admins.
   - Score: Not graded (0-30)
 12. Scheduled Weather Digest Service — (Available)
