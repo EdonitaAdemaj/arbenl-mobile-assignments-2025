@@ -5,7 +5,7 @@
 > Suggested cloud and mobile-cloud building blocks are listed under each topic.
 
 ## Cloud Foundations & Web Platforms
-01. Cloud-hosted Task Collaboration Platform — (Taken by Ejona Shala <ejona.shala@universitetiaab.com>)
+01.Serverless Contact Form with Spam Scoring — (Taken by Edonita Ademaj   <edonita.ademaj@universitetiaab.com> )
   - Cloud focus: Deploy a CRUD web app with managed database, authentication, object storage for attachments, and environment-based configuration.
   - Score: Not graded (0-30)
 02. Multi-tenant Course Resource Portal — (Available)
@@ -37,7 +37,7 @@
   - Score: Not graded (0-30)
 
 ## Serverless APIs & Automation
-11. Serverless Contact Form with Spam Scoring — (Available)
+11. Serverless Contact Form with Spam Scoring — (Taken by Edonita Ademaj   <edonita.ademaj@universitetiaab.com> )
   - Cloud focus: Build an HTTP function, store submissions, add rate limiting or CAPTCHA verification, and notify admins.
   - Score: Not graded (0-30)
 12. Scheduled Weather Digest Service — (Available)
